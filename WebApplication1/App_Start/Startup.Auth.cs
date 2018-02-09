@@ -5,9 +5,9 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using ThunderPlanner.Models;
+using WebApplication1.Models;
 
-namespace ThunderPlanner
+namespace WebApplication1
 {
     public partial class Startup
     {

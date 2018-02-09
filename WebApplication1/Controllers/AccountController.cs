@@ -8,9 +8,9 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using ThunderPlanner.Models;
+using WebApplication1.Models;
 
-namespace ThunderPlanner.Controllers
+namespace WebApplication1.Controllers
 {
     [Authorize]
     public class AccountController : Controller
